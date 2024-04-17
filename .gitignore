@@ -1,0 +1,15 @@
+/assets
+/csv
+/fingerprint.pb
+/jena_climate_2009_2016.csv
+/json files
+/keras_metadata.pb
+/Lyric
+/model1
+/model2
+/model3
+/names-by-nationality.csv
+/normalization.ipynb
+/rnn.ipynb
+/saved_model.pb
+/variables
